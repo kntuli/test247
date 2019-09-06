@@ -6,3 +6,4 @@ Features
   * Invite users
   * Mark The test
   * Send test scores to the users
+  * Send Test Score Link to users 
